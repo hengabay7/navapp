@@ -7,7 +7,6 @@ import Episodes from './Episodes';
 import Quotes from './Quotes';
 
 
-
 //3. //create bottom tab
 const AppTabs = createMaterialBottomTabNavigator();
 
